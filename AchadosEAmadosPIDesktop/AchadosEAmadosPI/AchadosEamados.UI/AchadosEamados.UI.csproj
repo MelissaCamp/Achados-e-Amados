@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2DE7C0D-3B0F-4466-8757-B76D366FB260}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AchadosEamados.UI</RootNamespace>
+    <AssemblyName>AchadosEamados.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAtualizarAdotadosAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtualizarAdotadosAdm.Designer.cs">
+      <DependentUpon>FrmAtualizarAdotadosAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtualizarClienteAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtualizarClienteAdm.Designer.cs">
+      <DependentUpon>FrmAtualizarClienteAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtualizarGereVetAdotados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtualizarGereVetAdotados.Designer.cs">
+      <DependentUpon>FrmAtualizarGereVetAdotados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastro.Designer.cs">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadastroLogadoAnimalAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadastroLogadoAnimalAdm.Designer.cs">
+      <DependentUpon>FrmCadastroLogadoAnimalAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadastroLogadoAnimalGereVet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadastroLogadoAnimalGereVet.Designer.cs">
+      <DependentUpon>FrmCadastroLogadoAnimalGereVet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadastroLogadoFuncionarioAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadastroLogadoFuncionarioAdm.Designer.cs">
+      <DependentUpon>FrmCadastroLogadoFuncionarioAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCriarAdotadosAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCriarAdotadosAdm.Designer.cs">
+      <DependentUpon>FrmCriarAdotadosAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCriarCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCriarCatalogo.Designer.cs">
+      <DependentUpon>FrmCriarCatalogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCriarGereVetAdotados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCriarGereVetAdotados.Designer.cs">
+      <DependentUpon>FrmCriarGereVetAdotados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeletarAdotadosAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeletarAdotadosAdm.Designer.cs">
+      <DependentUpon>FrmDeletarAdotadosAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeletarGereVetAdotados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeletarGereVetAdotados.Designer.cs">
+      <DependentUpon>FrmDeletarGereVetAdotados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteAnimalAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteAnimalAdm.Designer.cs">
+      <DependentUpon>frmDeleteAnimalAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeleteAnimalGereVet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeleteAnimalGereVet.Designer.cs">
+      <DependentUpon>FrmDeleteAnimalGereVet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeleteCatalogoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeleteCatalogoAdm.Designer.cs">
+      <DependentUpon>FrmDeleteCatalogoAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteClienteAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteClienteAdm.Designer.cs">
+      <DependentUpon>frmDeleteClienteAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteFuncionarioAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteFuncionarioAdm.Designer.cs">
+      <DependentUpon>frmDeleteFuncionarioAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGerenVetPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGerenVetPrincipal.Designer.cs">
+      <DependentUpon>FrmGerenVetPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListAnimalAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListAnimalAdm.Designer.cs">
+      <DependentUpon>FrmListAnimalAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListAnimalCuidador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListAnimalCuidador.Designer.cs">
+      <DependentUpon>FrmListAnimalCuidador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListarAdotadosAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListarAdotadosAdm.Designer.cs">
+      <DependentUpon>FrmListarAdotadosAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListarAnimaisAdotadoCuidador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListarAnimaisAdotadoCuidador.Designer.cs">
+      <DependentUpon>FrmListarAnimaisAdotadoCuidador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListarAnimalGereVet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListarAnimalGereVet.Designer.cs">
+      <DependentUpon>FrmListarAnimalGereVet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListarGereVetAdotados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListarGereVetAdotados.Designer.cs">
+      <DependentUpon>FrmListarGereVetAdotados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListCatalogoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListCatalogoAdm.Designer.cs">
+      <DependentUpon>FrmListCatalogoAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListClienteAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListClienteAdm.Designer.cs">
+      <DependentUpon>FrmListClienteAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListFuncionarioAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListFuncionarioAdm.Designer.cs">
+      <DependentUpon>FrmListFuncionarioAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipalAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipalAdm.Designer.cs">
+      <DependentUpon>frmPrincipalAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipalCuidador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipalCuidador.Designer.cs">
+      <DependentUpon>FrmPrincipalCuidador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateAnimalAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateAnimalAdm.Designer.cs">
+      <DependentUpon>frmUpdateAnimalAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateAnimalCuidador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateAnimalCuidador.Designer.cs">
+      <DependentUpon>FrmUpdateAnimalCuidador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateCatalogoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateCatalogoAdm.Designer.cs">
+      <DependentUpon>FrmUpdateCatalogoAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateFuncionarioAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateFuncionarioAdm.Designer.cs">
+      <DependentUpon>frmUpdateFuncionarioAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUptdateAnimalGereVet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUptdateAnimalGereVet.Designer.cs">
+      <DependentUpon>FrmUptdateAnimalGereVet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAtualizarAdotadosAdm.resx">
+      <DependentUpon>FrmAtualizarAdotadosAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtualizarClienteAdm.resx">
+      <DependentUpon>FrmAtualizarClienteAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtualizarGereVetAdotados.resx">
+      <DependentUpon>FrmAtualizarGereVetAdotados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastro.resx">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadastroLogadoAnimalAdm.resx">
+      <DependentUpon>FrmCadastroLogadoAnimalAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadastroLogadoAnimalGereVet.resx">
+      <DependentUpon>FrmCadastroLogadoAnimalGereVet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadastroLogadoFuncionarioAdm.resx">
+      <DependentUpon>FrmCadastroLogadoFuncionarioAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCriarAdotadosAdm.resx">
+      <DependentUpon>FrmCriarAdotadosAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCriarCatalogo.resx">
+      <DependentUpon>FrmCriarCatalogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCriarGereVetAdotados.resx">
+      <DependentUpon>FrmCriarGereVetAdotados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeletarAdotadosAdm.resx">
+      <DependentUpon>FrmDeletarAdotadosAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeletarGereVetAdotados.resx">
+      <DependentUpon>FrmDeletarGereVetAdotados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteAnimalAdm.resx">
+      <DependentUpon>frmDeleteAnimalAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeleteAnimalGereVet.resx">
+      <DependentUpon>FrmDeleteAnimalGereVet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeleteCatalogoAdm.resx">
+      <DependentUpon>FrmDeleteCatalogoAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteClienteAdm.resx">
+      <DependentUpon>frmDeleteClienteAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteFuncionarioAdm.resx">
+      <DependentUpon>frmDeleteFuncionarioAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGerenVetPrincipal.resx">
+      <DependentUpon>FrmGerenVetPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListAnimalAdm.resx">
+      <DependentUpon>FrmListAnimalAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListAnimalCuidador.resx">
+      <DependentUpon>FrmListAnimalCuidador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListarAdotadosAdm.resx">
+      <DependentUpon>FrmListarAdotadosAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListarAnimaisAdotadoCuidador.resx">
+      <DependentUpon>FrmListarAnimaisAdotadoCuidador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListarAnimalGereVet.resx">
+      <DependentUpon>FrmListarAnimalGereVet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListarGereVetAdotados.resx">
+      <DependentUpon>FrmListarGereVetAdotados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListCatalogoAdm.resx">
+      <DependentUpon>FrmListCatalogoAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListClienteAdm.resx">
+      <DependentUpon>FrmListClienteAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListFuncionarioAdm.resx">
+      <DependentUpon>FrmListFuncionarioAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipalAdm.resx">
+      <DependentUpon>frmPrincipalAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipalCuidador.resx">
+      <DependentUpon>FrmPrincipalCuidador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateAnimalAdm.resx">
+      <DependentUpon>frmUpdateAnimalAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateAnimalCuidador.resx">
+      <DependentUpon>FrmUpdateAnimalCuidador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateCatalogoAdm.resx">
+      <DependentUpon>FrmUpdateCatalogoAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateFuncionarioAdm.resx">
+      <DependentUpon>frmUpdateFuncionarioAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUptdateAnimalGereVet.resx">
+      <DependentUpon>FrmUptdateAnimalGereVet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AchadosEamados.BLL\AchadosEamados.BLL.csproj">
+      <Project>{DD99C761-E097-454A-ADB7-8A5B2DC70458}</Project>
+      <Name>AchadosEamados.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AchadosEamados.DTO\AchadosEamados.DTO.csproj">
+      <Project>{FE34BFAA-EED2-4A57-9474-B39F92D9E1F5}</Project>
+      <Name>AchadosEamados.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

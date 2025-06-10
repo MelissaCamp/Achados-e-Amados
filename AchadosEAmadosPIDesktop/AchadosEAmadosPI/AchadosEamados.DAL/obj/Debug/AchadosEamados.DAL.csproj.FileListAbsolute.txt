@@ -1,0 +1,18 @@
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DAL.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DAL.pdb
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DTO.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DTO.pdb
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.csproj.AssemblyReference.cache
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.csproj.CoreCompileInputs.cache
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosE.40D047F2.Up2Date
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DAL.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DAL.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DTO.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\bin\Debug\AchadosEamados.DTO.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.csproj.AssemblyReference.cache
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosE.40D047F2.Up2Date
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.DAL\obj\Debug\AchadosEamados.DAL.pdb

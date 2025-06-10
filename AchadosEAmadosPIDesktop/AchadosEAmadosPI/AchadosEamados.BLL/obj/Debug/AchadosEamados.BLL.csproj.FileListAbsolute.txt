@@ -1,0 +1,22 @@
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.BLL.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.BLL.pdb
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DAL.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DTO.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DAL.pdb
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DTO.pdb
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.csproj.AssemblyReference.cache
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.csproj.CoreCompileInputs.cache
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosE.7D1A1D9B.Up2Date
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.dll
+C:\Users\maria.egoliveira6\source\repos\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.BLL.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.BLL.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DAL.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DTO.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DAL.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\bin\Debug\AchadosEamados.DTO.pdb
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.csproj.AssemblyReference.cache
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosE.7D1A1D9B.Up2Date
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.dll
+C:\Users\melis\Downloads\AchadosEAmadosPI 5 1\AchadosEAmadosPI 5\AchadosEAmadosPI 5\AchadosEAmadosPI\AchadosEamados.BLL\obj\Debug\AchadosEamados.BLL.pdb

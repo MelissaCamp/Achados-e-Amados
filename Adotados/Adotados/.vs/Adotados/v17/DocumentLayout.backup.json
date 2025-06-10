@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\adotadosdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\adotadosdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\controllers\\tipoanimalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\controllers\\tipoanimalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\adotadosdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\adotadosdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\controllers\\tipofuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\controllers\\tipofuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF101E0-B70C-48EF-8382-3F07548E4C69}|AdotadosAPI\\AdotadosAPI.csproj|solutionrelative:adotadosapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\tipofuncionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\tipofuncionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\tipoanimaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\tipoanimaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\adotadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\adotadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosdto\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6122D6-6F42-409F-9A9E-B40F78210223}|AdotadosDTO\\AdotadosDTO.csproj|solutionrelative:adotadosdto\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\funcionariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\funcionariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\adotadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\adotadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\tipoanimaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\tipoanimaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotados\\tipofuncionariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0055C024-355C-45F8-AFBD-0330FE5D3054}|Adotados\\AdotadosDAL.csproj|solutionrelative:adotados\\tipofuncionariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33A803C-9BAC-4D4F-9198-AFAA7FC0CDDB}|AdotadosBLL\\AdotadosBLL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosbll\\funcionariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33A803C-9BAC-4D4F-9198-AFAA7FC0CDDB}|AdotadosBLL\\AdotadosBLL.csproj|solutionrelative:adotadosbll\\funcionariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33A803C-9BAC-4D4F-9198-AFAA7FC0CDDB}|AdotadosBLL\\AdotadosBLL.csproj|c:\\users\\maria.egoliveira6\\source\\repos\\api\\adotados\\adotadosbll\\adotadobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33A803C-9BAC-4D4F-9198-AFAA7FC0CDDB}|AdotadosBLL\\AdotadosBLL.csproj|solutionrelative:adotadosbll\\adotadobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AdotadosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\appsettings.json",
+              "RelativeToolTip": "AdotadosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T22:57:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Program.cs",
+              "RelativeToolTip": "AdotadosAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:46:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdotadosDTO.csproj",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\AdotadosDTO.csproj",
+              "RelativeDocumentMoniker": "AdotadosDTO\\AdotadosDTO.csproj",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\AdotadosDTO.csproj",
+              "RelativeToolTip": "AdotadosDTO\\AdotadosDTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T22:36:32.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AdotadosAPI\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:36:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "AdotadosAPI\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:43:39.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\Conexao.cs",
+              "RelativeDocumentMoniker": "Adotados\\Conexao.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\Conexao.cs",
+              "RelativeToolTip": "Adotados\\Conexao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:53:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdotadosDAL.csproj",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\AdotadosDAL.csproj",
+              "RelativeDocumentMoniker": "Adotados\\AdotadosDAL.csproj",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\AdotadosDAL.csproj",
+              "RelativeToolTip": "Adotados\\AdotadosDAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T22:36:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AdotadosAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:12:25.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "AdotadosAPI\\Controllers\\AnimalController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:40:44.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoAnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\TipoAnimalController.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Controllers\\TipoAnimalController.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\TipoAnimalController.cs",
+              "RelativeToolTip": "AdotadosAPI\\Controllers\\TipoAnimalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:51:04.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoFuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\TipoFuncionarioController.cs",
+              "RelativeDocumentMoniker": "AdotadosAPI\\Controllers\\TipoFuncionarioController.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosAPI\\Controllers\\TipoFuncionarioController.cs",
+              "RelativeToolTip": "AdotadosAPI\\Controllers\\TipoFuncionarioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:50:34.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\ClienteDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:04:08.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoFuncionarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\TipoFuncionarioDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\TipoFuncionarioDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\TipoFuncionarioDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\TipoFuncionarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:04:55.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdotadoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\AdotadoDAL.cs",
+              "RelativeDocumentMoniker": "Adotados\\AdotadoDAL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\AdotadoDAL.cs",
+              "RelativeToolTip": "Adotados\\AdotadoDAL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA9wKIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:02:55.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "Adotados\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\ClienteDAL.cs",
+              "RelativeToolTip": "Adotados\\ClienteDAL.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAcwMQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:35:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\LoginDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:02:18.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnimalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\AnimalDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\AnimalDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\AnimalDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\AnimalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:04:23.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdotadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\AdotadoDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\AdotadoDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\AdotadoDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\AdotadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:04:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FuncionarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\FuncionarioDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\FuncionarioDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\FuncionarioDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\FuncionarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:04:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TipoAnimalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\TipoAnimalDTO.cs",
+              "RelativeDocumentMoniker": "AdotadosDTO\\TipoAnimalDTO.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosDTO\\TipoAnimalDTO.cs",
+              "RelativeToolTip": "AdotadosDTO\\TipoAnimalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:04:52.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FuncionarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\FuncionarioDAL.cs",
+              "RelativeDocumentMoniker": "Adotados\\FuncionarioDAL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\FuncionarioDAL.cs",
+              "RelativeToolTip": "Adotados\\FuncionarioDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:38:34.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdotadoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosBLL\\AdotadoBLL.cs",
+              "RelativeDocumentMoniker": "AdotadosBLL\\AdotadoBLL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosBLL\\AdotadoBLL.cs",
+              "RelativeToolTip": "AdotadosBLL\\AdotadoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:23:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FuncionarioBLL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosBLL\\FuncionarioBLL.cs",
+              "RelativeDocumentMoniker": "AdotadosBLL\\FuncionarioBLL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\AdotadosBLL\\FuncionarioBLL.cs",
+              "RelativeToolTip": "AdotadosBLL\\FuncionarioBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:29:59.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TipoFuncionarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\TipoFuncionarioDAL.cs",
+              "RelativeDocumentMoniker": "Adotados\\TipoFuncionarioDAL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\TipoFuncionarioDAL.cs",
+              "RelativeToolTip": "Adotados\\TipoFuncionarioDAL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:29:13.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TipoAnimalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\TipoAnimalDAL.cs",
+              "RelativeDocumentMoniker": "Adotados\\TipoAnimalDAL.cs",
+              "ToolTip": "C:\\Users\\maria.egoliveira6\\source\\repos\\Api\\Adotados\\Adotados\\TipoAnimalDAL.cs",
+              "RelativeToolTip": "Adotados\\TipoAnimalDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:29:35.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

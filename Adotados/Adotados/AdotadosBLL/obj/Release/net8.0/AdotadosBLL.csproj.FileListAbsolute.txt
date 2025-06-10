@@ -1,0 +1,17 @@
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosBLL.deps.json
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosBLL.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosBLL.pdb
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosDAL.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosDTO.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosDTO.pdb
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\bin\Release\net8.0\AdotadosDAL.pdb
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.csproj.AssemblyReference.cache
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.AssemblyInfoInputs.cache
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.AssemblyInfo.cs
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.csproj.CoreCompileInputs.cache
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\Adotados.8C22B688.Up2Date
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\refint\AdotadosBLL.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\AdotadosBLL.pdb
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosBLL\obj\Release\net8.0\ref\AdotadosBLL.dll

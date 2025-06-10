@@ -1,0 +1,11 @@
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\bin\Release\net8.0\AdotadosDTO.deps.json
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\bin\Release\net8.0\AdotadosDTO.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\bin\Release\net8.0\AdotadosDTO.pdb
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\AdotadosDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\AdotadosDTO.AssemblyInfoInputs.cache
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\AdotadosDTO.AssemblyInfo.cs
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\AdotadosDTO.csproj.CoreCompileInputs.cache
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\AdotadosDTO.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\refint\AdotadosDTO.dll
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\AdotadosDTO.pdb
+C:\Users\maria.egoliveira6\source\repos\Api\Adotados\AdotadosDTO\obj\Release\net8.0\ref\AdotadosDTO.dll
